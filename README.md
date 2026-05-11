@@ -1,4 +1,4 @@
-![프로필 이미지](./github-white-logo-700-740x395.png)
+![프로필 이미지](./github-white-logo-700-740x395.png) 
 # 깃 과 깃허브
 - - - -
 ## 깃
